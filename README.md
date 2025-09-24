@@ -15,7 +15,7 @@ The Surrounding Scanner is a cost-effective solution for enhancing mobility and 
 - **Accessibility-Focused Design:** Ensuring usability for visually impaired users.
 - **Responsive Design:** Optimized for desktop, and mobile devices.
 - **Technical Specifications:** Information about the sensor, speaker, motherboard, breadboard, frame, and battery.
-- Visit at "main.vividsense.org".
+- **Official URL:** Visit at "main.vividsense.org".
 
 ## Future Endeavors
 - **Stronger Technology** TSS v2.0 will use a Raspberry Pi 5 to allow for object detection and more accurate distance tracking.
